@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64" fill="none">
+<g mask="url(#mask-vDQr0rg82tnjfm-4fXSGP)">
+<ellipse cx="32" cy="32.00001525878906" rx="32" ry="32.00001525878906"   fill="#000000" >
+</ellipse>
+</g>
+<g mask="url(#mask-vDQr0rg82tnjfm-4fXSGP)">
+<path d="M53.1585 56.0067L24.5837 19.1997L19.2 19.1997L19.2 44.789L23.507 44.789L23.507 24.6697L49.7775 58.6112C50.9625 57.8185 52.0895 56.9502 53.1585 56.0067Z"   fill="url(#linear_fill_Q3pdgs_FWtdipmFEyveNV)" >
+</path>
+</g>
+<g mask="url(#mask-vDQr0rg82tnjfm-4fXSGP)">
+<path d="M40.889 19.1997L45.1558 19.1997L45.1558 44.7997L40.889 44.7997L40.889 19.1997Z"   fill="url(#linear_fill_xuCRGYReazlVW2YphX9m7)" >
+</path>
+</g>
+<defs>
+<mask id="mask-vDQr0rg82tnjfm-4fXSGP" style="mask-type:alpha" maskUnits="userSpaceOnUse">
+<ellipse cx="32" cy="32.00001525878906" rx="32" ry="32.00001525878906"   fill="#000000" >
+</ellipse>
+</mask>
+<linearGradient id="linear_fill_Q3pdgs_FWtdipmFEyveNV" x1="38.092041015625" y1="41.421875" x2="47.462890625" y2="57.0662841796875" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#FFFFFF"  />
+<stop offset="1" stop-color="#FFFFFF" stop-opacity="0" />
+</linearGradient>
+<linearGradient id="linear_fill_xuCRGYReazlVW2YphX9m7" x1="43.0224609375" y1="19.19970703125" x2="43.0203857421875" y2="37.9998779296875" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#FFFFFF"  />
+<stop offset="1" stop-color="#FFFFFF" stop-opacity="0" />
+</linearGradient>
+</defs>
+</svg>
