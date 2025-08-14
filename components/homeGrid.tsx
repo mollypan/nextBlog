@@ -8,7 +8,7 @@ const HomeGrid = () => {
         <div
           className={`absolute left-0 top-0 text-xs text-gray-500 ${fontCarto.className} p-1 -z-10 group-hover:-translate-y-full transition-transform duration-500`}
         >
-          🧸 Hello I'm
+          🧸 Hello I&apos;m
         </div>
         <div
           className={`w-full bg-white flex justify-center items-center col-span-1  row-span-1 aspect-square rounded-3xl ${fontEnjoy.className} text-4xl sm:text-5xl lg:text-6xl shadow-md md:order-4 md:row-start-1 cursor-pointer hover:scale-105 transition-all duration-500 z-10`}
