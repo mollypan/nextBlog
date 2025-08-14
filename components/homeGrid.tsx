@@ -3,7 +3,7 @@ import Music from "./music";
 
 const HomeGrid = () => {
   return (
-    <div className="grid grid-cols-2 md:grid-cols-3 grid-rows-6 md:grid-row-4 w-[80%] min-h-screen gap-4 md:gap-8 ">
+    <div className="grid grid-cols-2 grid-rows-6 md:grid-cols-3 md:grid-rows-4 w-[80%] min-h-screen gap-4 md:gap-8 ">
       <div className="relative group">
         <div
           className={`absolute left-0 top-0 text-xs text-gray-500 ${fontCarto.className} p-1 -z-10 group-hover:-translate-y-full transition-transform duration-500`}
